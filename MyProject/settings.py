@@ -25,10 +25,10 @@ SECRET_KEY = 'django-insecure-u%4-1$rw&m%j7x3acntcu2i%s-sht88r4%z#n_c130a&r@g=z-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://127.0.0.1:8000/', '127.0.0.1:8000', 'http://192.168.20.244:8000/', '192.168.20.244:8000', '192.168.20.244', '127.0.0.1', 'https://c-peitel1-backend.onrender.com', 'c-peitel1-backend.onrender.com']
+ALLOWED_HOSTS = ['http://127.0.0.1:8000/', '127.0.0.1:8000', 'http://192.168.20.244:8000/', '192.168.20.244:8000', '192.168.20.244', '127.0.0.1', 'https://emtech-backend-2.onrender.com', 'emtech-backend-2.onrender.com']
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://c-peitel1-backend.onrender.com",
+    "https://emtech-backend-2.onrender.com",
 ]
 
 # Application definition
